@@ -6,7 +6,7 @@
   <link href="/coderLzYoung.github.io/atom.xml" rel="self"/>
   
   <link href="https://coderlzyoung.github.io/coderLzYoung.github.io/"/>
-  <updated>2019-11-23T11:11:05.201Z</updated>
+  <updated>2019-11-25T06:09:08.800Z</updated>
   <id>https://coderlzyoung.github.io/coderLzYoung.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://coderlzyoung.github.io/coderLzYoung.github.io/2019/11/23/%E7%BE%BD%E5%82%BB%E8%9B%8B%E8%9B%8B/"/>
     <id>https://coderlzyoung.github.io/coderLzYoung.github.io/2019/11/23/%E7%BE%BD%E5%82%BB%E8%9B%8B%E8%9B%8B/</id>
     <published>2019-11-23T11:10:15.000Z</published>
-    <updated>2019-11-23T11:11:05.201Z</updated>
+    <updated>2019-11-25T06:09:08.800Z</updated>
     
     <content type="html"><![CDATA[<p>this is my first article.</p>]]></content>
     
@@ -36,6 +36,8 @@
     </summary>
     
     
+      <category term="personal" scheme="https://coderLzYoung.github.io/coderLzYoung.github.io/categories/personal/"/>
+    
     
   </entry>
   
@@ -44,7 +46,7 @@
     <link href="https://coderlzyoung.github.io/coderLzYoung.github.io/2019/11/23/coderZiYoung/"/>
     <id>https://coderlzyoung.github.io/coderLzYoung.github.io/2019/11/23/coderZiYoung/</id>
     <published>2019-11-23T09:58:05.000Z</published>
-    <updated>2019-11-23T15:34:33.172Z</updated>
+    <updated>2019-11-25T06:08:59.257Z</updated>
     
     <content type="html"><![CDATA[<p>我爱傻羽傻蛋蛋。</p>]]></content>
     
@@ -58,6 +60,8 @@
     
     </summary>
     
+    
+      <category term="personal" scheme="https://coderLzYoung.github.io/coderLzYoung.github.io/categories/personal/"/>
     
     
   </entry>
